@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d98dbe59-4e77-4203-b2db-b164c6d064a5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="264" column="29" selection-start-line="264" selection-start-column="29" selection-end-line="264" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+                <element signature="e#915#916#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#1747#1748#0" expanded="true" />
+                <element signature="e#1825#1826#0" expanded="true" />
+                <element signature="e#2250#2251#0" expanded="true" />
+                <element signature="e#2330#2331#0" expanded="true" />
+                <element signature="e#2386#2387#0" expanded="true" />
+                <element signature="e#2463#2464#0" expanded="true" />
+                <element signature="e#2511#2512#0" expanded="true" />
+                <element signature="e#2590#2591#0" expanded="true" />
+                <element signature="e#3223#3224#0" expanded="true" />
+                <element signature="e#3299#3300#0" expanded="true" />
+                <element signature="e#3722#3723#0" expanded="true" />
+                <element signature="e#3808#3809#0" expanded="true" />
+                <element signature="e#3870#3871#0" expanded="true" />
+                <element signature="e#3951#3952#0" expanded="true" />
+                <element signature="e#4005#4006#0" expanded="true" />
+                <element signature="e#4090#4091#0" expanded="true" />
+                <element signature="e#4786#4787#0" expanded="true" />
+                <element signature="e#4868#4869#0" expanded="true" />
+                <element signature="e#5310#5311#0" expanded="true" />
+                <element signature="e#5391#5392#0" expanded="true" />
+                <element signature="e#5448#5449#0" expanded="true" />
+                <element signature="e#5524#5525#0" expanded="true" />
+                <element signature="e#5573#5574#0" expanded="true" />
+                <element signature="e#5653#5654#0" expanded="true" />
+                <element signature="e#6266#6267#0" expanded="true" />
+                <element signature="e#6343#6344#0" expanded="true" />
+                <element signature="e#6770#6771#0" expanded="true" />
+                <element signature="e#6854#6855#0" expanded="true" />
+                <element signature="e#6915#6916#0" expanded="true" />
+                <element signature="e#6995#6996#0" expanded="true" />
+                <element signature="e#7052#7053#0" expanded="true" />
+                <element signature="e#7132#7133#0" expanded="true" />
+                <element signature="e#7745#7746#0" expanded="true" />
+                <element signature="e#7822#7823#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="150" column="59" selection-start-line="150" selection-start-column="59" selection-end-line="150" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MINUTE</find>
+      <find>HOUR</find>
+      <find>DayOfMonth</find>
+      <find>DAYOFMONTH</find>
+      <find>MONTH</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Hour</replace>
+      <replace>HOUR</replace>
+      <replace>DayOfMonth</replace>
+      <replace>DAYOFMONTH</replace>
+      <replace>Month</replace>
+      <replace>MONTH</replace>
+      <replace>DayOfWeek</replace>
+      <replace>DAYOFWEEK</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/spring-boot-rest-api-template" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/studentroomfinder" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/studentroomfinder/complete" value="PREVIEW" />
+        <entry key="$USER_HOME$/Projects/student-room-finder" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Parser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ParserTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Deliveroo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="840" />
+    <option name="y" value="22" />
+    <option name="width" value="840" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Deliveroo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Deliveroo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Parser">
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parser" />
+      <module name="Deliveroo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Deliveroo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParserTest.testParseEmptyMinute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Deliveroo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="METHOD_NAME" value="testParseEmptyMinute" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParserTest.testParseInvalidMinute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Deliveroo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="METHOD_NAME" value="testParseInvalidMinute" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ParserTest.testParseValidMinuteLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Deliveroo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParserTest" />
+      <option name="METHOD_NAME" value="testParseValidMinuteLast" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ParserTest" />
+      <item itemvalue="JUnit.ParserTest.testParseValidMinuteLast" />
+      <item itemvalue="JUnit.ParserTest.testParseInvalidMinute" />
+      <item itemvalue="JUnit.ParserTest.testParseEmptyMinute" />
+      <item itemvalue="Application.Parser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Parser" />
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="JUnit.ParserTest.testParseEmptyMinute" />
+        <item itemvalue="JUnit.ParserTest.testParseInvalidMinute" />
+        <item itemvalue="JUnit.ParserTest.testParseValidMinuteLast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98dbe59-4e77-4203-b2db-b164c6d064a5" name="Default" comment="" />
+      <created>1560378573369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560378573369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParserTest - 2019.06.13 at 01h 27m 06s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 28m 14s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 29m 29s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 29m 42s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 30m 37s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 31m 35s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 32m 44s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 33m 10s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 35m 06s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParserTest - 2019.06.13 at 01h 42m 31s.xml">
+      <configuration name="ParserTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="972" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3298122" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3298122" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3298122" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25654763" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39906102" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ParserTest.java</url>
+          <line>169</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Scraper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1248" selection-start-line="1248" selection-end-line="1248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="150" column="59" selection-start-line="150" selection-start-column="59" selection-end-line="150" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="264" column="29" selection-start-line="264" selection-start-column="29" selection-end-line="264" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+            <element signature="e#1825#1826#0" expanded="true" />
+            <element signature="e#2250#2251#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2386#2387#0" expanded="true" />
+            <element signature="e#2463#2464#0" expanded="true" />
+            <element signature="e#2511#2512#0" expanded="true" />
+            <element signature="e#2590#2591#0" expanded="true" />
+            <element signature="e#3223#3224#0" expanded="true" />
+            <element signature="e#3299#3300#0" expanded="true" />
+            <element signature="e#3722#3723#0" expanded="true" />
+            <element signature="e#3808#3809#0" expanded="true" />
+            <element signature="e#3870#3871#0" expanded="true" />
+            <element signature="e#3951#3952#0" expanded="true" />
+            <element signature="e#4005#4006#0" expanded="true" />
+            <element signature="e#4090#4091#0" expanded="true" />
+            <element signature="e#4786#4787#0" expanded="true" />
+            <element signature="e#4868#4869#0" expanded="true" />
+            <element signature="e#5310#5311#0" expanded="true" />
+            <element signature="e#5391#5392#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+            <element signature="e#5524#5525#0" expanded="true" />
+            <element signature="e#5573#5574#0" expanded="true" />
+            <element signature="e#5653#5654#0" expanded="true" />
+            <element signature="e#6266#6267#0" expanded="true" />
+            <element signature="e#6343#6344#0" expanded="true" />
+            <element signature="e#6770#6771#0" expanded="true" />
+            <element signature="e#6854#6855#0" expanded="true" />
+            <element signature="e#6915#6916#0" expanded="true" />
+            <element signature="e#6995#6996#0" expanded="true" />
+            <element signature="e#7052#7053#0" expanded="true" />
+            <element signature="e#7132#7133#0" expanded="true" />
+            <element signature="e#7745#7746#0" expanded="true" />
+            <element signature="e#7822#7823#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Deliveroo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:3.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
